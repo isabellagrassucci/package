@@ -1,6 +1,6 @@
 library("devtools")
-use_git(message = "non sto capendo")
-use_r("isasplit.R")
+use_git(message = "Initial commit r-github")
+#use_r("isasplit.R")
 load_all()
 strsplit1("canecane","cane")
 check()
